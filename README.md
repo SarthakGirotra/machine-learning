@@ -6,21 +6,18 @@
 
 ### REQUIREMENTS
 
--tensorflow
+- tensorflow
 
--numpy
+- numpy
 
--pandas
+- pandas
 
--sklearn
+- sklearn
 
 ### optional (for gpu support, only for nvidia gpus)
 
--install cuda
+- install cuda
 
---cuDNN
-<<<<<<< HEAD
-=======
+- install cuDNN
 
 
->>>>>>> 44b7d9e6f5e497e1c42d61f9140bb668a797610a
