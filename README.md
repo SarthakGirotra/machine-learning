@@ -19,3 +19,8 @@
 -install cuda
 
 --cuDNN
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 44b7d9e6f5e497e1c42d61f9140bb668a797610a
