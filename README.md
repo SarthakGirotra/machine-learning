@@ -6,13 +6,9 @@
 
 ### REQUIREMENTS
 
-- tensorflow
+- install requirements.txt 
 
-- numpy
-
-- pandas
-
-- sklearn
+- pip install -r requirements.txt
 
 ### optional (for gpu support, only for nvidia gpus)
 
